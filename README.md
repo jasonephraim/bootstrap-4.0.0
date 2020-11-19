@@ -17,6 +17,7 @@
     ·
     <a href="https://blog.getbootstrap.com/">Blog</a>
   </p>
+  [![Build Status](https://travis-ci.com/jasonephraim/bootstrap-4.0.0.svg?branch=master)](https://travis-ci.com/jasonephraim/bootstrap-4.0.0)
 </p>
 
 <br>
